@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋,I'm Faezeh</h1>
 <h3 align="center">front-end developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faezehdev" alt="faezehdev" /></a> </p>
+
 - 🌱 I’m currently learning **react**
 
 - 📫 can reach me by **faezeh0078@gmail.com**

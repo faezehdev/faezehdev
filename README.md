@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍Welcome to my world of creative domain,I'm Faezeh 👋<br>⚛️I'm currently learning React js<br>💻 I'm currently working as a front-end developer<br>🍂My birthday is on Nov 23 , 1999
+🌍Welcome to my world of creative domain,I'm Faezeh 👋<br>💻 I'm currently working as a front-end developer<br>🍂My birthday is on Nov 23 , 1999
 
 
 ## 🌐 Socials:

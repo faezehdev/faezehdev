@@ -9,7 +9,7 @@ When I’m not coding, you’ll probably find me sketching ideas, playing with c
 Let’s connect and create something awesome together. 🚀
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/feazehdev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/feazeh-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faezeh-mohammadibagha-199585211/)
 
 # 💻 Tech Stack:
